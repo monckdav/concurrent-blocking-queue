@@ -1,0 +1,10 @@
+.gradle
+build/
+# create wrapper by IDE plugin
+gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### IntelliJ IDEA ###
+.idea
+out/
